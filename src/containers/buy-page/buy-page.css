@@ -118,3 +118,8 @@ td:last-child {
         margin: 6rem 1rem 0;
     }
 }
+@media screen and (max-width: 370px) {
+    .buyPage__buySection-itemInfo__container table {
+        min-width: unset;
+    }
+}

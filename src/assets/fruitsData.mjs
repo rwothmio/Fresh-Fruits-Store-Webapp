@@ -1,27 +1,3 @@
-// import alphonso from "./images/mangoes/alphonso.jpg";
-// import tommy from "./images/mangoes/tommy.jpg";
-// import golden from "./images/apple/golden.jpg";
-// import granny from "./images/apple/granny.jpg";
-// import redApple from "./images/apple/red.jpg";
-// import bacon from "./images/avocadoes/bacon.jpg";
-// import hass from "./images/avocadoes/hass.jpg";
-// import cavendish from "./images/bananas/cavendish.jpg";
-// import plantain from "./images/bananas/plantain.jpg";
-// import redBananas from "./images/bananas/red.jpg";
-// import redGrapes from "./images/grapes/red.jpg";
-// import blackGrapes from "./images/grapes/black.jpg";
-// import blood from "./images/oranges/blood.jpg";
-// import navel from "./images/oranges/navel.jpg";
-// import satsuma from "./images/oranges/satsuma.jpg";
-// import hawaiian from "./images/papaya/hawaiian.jpg";
-// import maradol from "./images/papaya/maradol.jpg";
-// import tainung from "./images/papaya/tainung.jpg";
-// import pinkglow from "./images/pineapples/pinkglow.jpg";
-// import smooth from "./images/pineapples/smooth.jpg";
-// import seedless from "./images/watermelons/seedless.jpg";
-// import sugarbaby from "./images/watermelons/sugarbaby.jpg";
-// import yellow from "./images/watermelons/yellow.jpg";
-
 const fruits = {
   mangoes: [
     {

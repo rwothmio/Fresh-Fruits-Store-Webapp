@@ -9,7 +9,7 @@ import heroFruits from "../../assets/heroFruits";
 
 
 function Hero() {
-  const [currentIndex, setCurrentIndex] = useState(0)
+  const [currentIndex, setCurrentIndex] = useState(2)
   const navigate = useNavigate()
 
    const handleClick = direction => {

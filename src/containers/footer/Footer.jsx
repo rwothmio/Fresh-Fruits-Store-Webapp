@@ -8,7 +8,7 @@ function Footer() {
     <div id="footer">
       <div className="thisSite">
         <Link to='/about'>About</Link>
-        <Link to={"#"}>Source Code</Link>
+        <Link to={"https://github.com/rwothmio/Fresh-Fruits-Store-Webapp"}>Source Code</Link>
       </div>
 
       <div className="lastWords">

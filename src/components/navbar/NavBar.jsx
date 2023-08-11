@@ -32,6 +32,7 @@ function NavBar({cartItems}) {
         <input
           className="navbar__searchbar-input"
           max={20}
+          autoComplete="off"
           type="search"
           name="q"
           placeholder="search for your juiciest fruit. e.g pineapple"

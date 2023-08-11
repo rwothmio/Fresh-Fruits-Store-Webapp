@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+/* center all the main elements on very large screens*/
+@media screen and (min-width: 1366px) {
+    .main {
+        padding-left: calc((100vw - 1366px)/2);
+        padding-right: calc((100vw - 1366px)/2);
+    }
+}

@@ -78,6 +78,13 @@
     color: var(--txt2);
 }
 
+@media screen and (min-width: 1366px) {
+    .navbar {
+        padding-left: calc((100vw - 1366px)/2);
+        padding-right: calc((100vw - 1366px)/2);
+    }
+}
+
 @media screen and (max-width: 1024px){
     .navbar {
         padding: 1.5rem 4rem 0.7rem;

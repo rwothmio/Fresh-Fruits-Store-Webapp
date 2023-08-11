@@ -1,5 +1,6 @@
 .buyPage {
     margin: 8rem 6rem 0;
+    min-height: 65vh;
 }
 
 .buyPage__buySection {

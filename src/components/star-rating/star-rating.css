@@ -1,0 +1,6 @@
+.starRating {
+    display: flex;
+}
+.starRating__star {
+    color: var(--txt2);
+}

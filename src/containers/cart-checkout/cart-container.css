@@ -1,0 +1,11 @@
+.cartContainer {
+    margin-top: 7rem;
+}
+
+#emptyCart {
+    padding: var(--spacing1);
+    margin-bottom: 7rem;
+    text-align: center;
+}
+
+  

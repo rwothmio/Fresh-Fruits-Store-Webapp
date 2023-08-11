@@ -7,8 +7,13 @@ function Footer() {
   return (
     <div id="footer">
       <div className="thisSite">
-        <Link to='/about'>About</Link>
-        <Link to={"https://github.com/rwothmio/Fresh-Fruits-Store-Webapp"}>Source Code</Link>
+        <Link hr="/about">About</Link>
+        <a
+          href="https://github.com/rwothmio/Fresh-Fruits-Store-Webapp"
+          target="_blank"
+        >
+          Source Code
+        </a>
       </div>
 
       <div className="lastWords">

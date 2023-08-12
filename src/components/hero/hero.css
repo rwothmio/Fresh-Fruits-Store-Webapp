@@ -77,7 +77,7 @@
 
 @media screen and (min-width: 1366px) {
     #hero__arrows {
-        width: 1354px;
+        width: calc(1366px - 12rem);
         margin: auto;
     }
 }

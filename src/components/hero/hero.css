@@ -74,9 +74,11 @@
     background: #ec6409;
 }
 
-@media screen and (min-width: 1200px) {
-    .hero__products {
-        width: 73.4rem;
+
+@media screen and (min-width: 1366px) {
+    #hero__arrows {
+        width: 1354px;
+        margin: auto;
     }
 }
 

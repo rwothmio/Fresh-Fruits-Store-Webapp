@@ -2,10 +2,7 @@
     height: 400px;
     display: flex;
     justify-content: center;
-   
-    margin: var(--spacing1);
-    
-    margin-top: 5rem; /* To be adjusted */
+    margin: 5rem 6rem 1rem;
 }
 
 .cartCheckout__cartItems {
@@ -73,6 +70,14 @@
     margin-top: 1.5rem;
   }
 
+  @media screen and (min-width: 1366px) {
+    .cartCheckout {
+        margin: 5rem auto 1rem;
+        max-width: 1366px;
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+}
 
   @media screen and (max-width: 770px) {
     .cartCheckout {

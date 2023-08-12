@@ -1,5 +1,6 @@
 .suggestedProducts {
     margin: var(--spacing1);
+    max-width: 1366px;
 }
 
 .suggestedProducts__products {
@@ -18,8 +19,17 @@
 #suggestedProducts__title {
     font-size: var(--heading1);
     margin-left: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
+@media screen and (min-width: 1366px) {
+    .suggestedProducts {
+        margin: 3rem auto 1rem;
+        max-width: 1366px;
+        padding-left: 6rem;
+        padding-right: 6rem;
+    }
+}
 
 @media screen and (max-width: 1024px) {
     .suggestedProducts {
